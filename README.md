@@ -16,12 +16,12 @@ Run the script.
 Run 
 
 ### Output:
-#### If file exists:
+#### If the file exists:
 Reading file content:
-Line 1: This is a sampke text file.
+Line 1: This is a sample text file.
 Line 2: It contains multiple lines.
 
-#### If file dies not exists:
+#### If the file does not exist:
 Error: The file 'sample.txt' was not found.
 
 # Task 2
